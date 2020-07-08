@@ -1,8 +1,8 @@
 module.exports = {
   host: 'localhost',
   port: 8000,
-  dest: './docs',
-  base: '/',
+  dest: './html',
+  base: '/html/',
   title: 'XSpace',
   description: 'Welcome',
   themeConfig: {
